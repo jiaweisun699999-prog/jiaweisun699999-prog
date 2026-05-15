@@ -31,10 +31,6 @@
 
 ### 📊 研发数据面板 (GitHub Stats)
 
-<div align="center">
+![Jiawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaweisun699999-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
 
-![Jiawei's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiaweisun699999-prog&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaweisun699999-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaweisun699999-prog&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1)
