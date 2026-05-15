@@ -31,5 +31,7 @@
 
 ### 📊 研发数据面板 (GitHub Stats)
 
-![Jiawei's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=jiaweisun699999-prog&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jiaweisun699999-prog&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiaweisun699999-prog&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiaweisun699999-prog&theme=tokyonight" height="170" />
+</p>
