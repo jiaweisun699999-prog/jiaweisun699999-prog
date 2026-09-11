@@ -87,7 +87,6 @@
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jiaweisun699999-prog/jiaweisun699999-prog/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
 
-<br/><br/>
 
 <!-- 彭博终端风格：全宽研发核心指标状态矩阵 -->
 <table align="center" width="100%">
@@ -115,7 +114,7 @@
     <tr>
       <td align="center"><b>Persona Edge Deployment</b></td>
       <td align="center"><code>LoRA + FastEmbed</code></td>
-      <td align="center">2C2G Zero-Marginal Cost</td>
+      <td align="center">8C16G Zero-Marginal Cost</td>
       <td align="center"><img src="https://img.shields.io/badge/Benchmark-Optimized-a855f7?style=flat-square" /></td>
     </tr>
     <tr>
@@ -128,3 +127,20 @@
 </table>
 
 </div>
+
+
+
+---
+### 📊 研发数据面板 (GitHub Stats)
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=jiaweisun699999-prog&show_icons=true&theme=tokyonight" height="170" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiaweisun699999-prog&theme=tokyonight" height="170" />
+
+</p> 
+
+
