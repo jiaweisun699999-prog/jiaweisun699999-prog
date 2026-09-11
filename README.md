@@ -78,8 +78,6 @@
 <!-- 实时动态打字机终端状态 -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=620&height=35&lines=%24+systemctl+status+ai-agent-cluster...;%3E+Node+Online%3A+LangGraph+%2B+DeepSeek-V3;%3E+Pipeline%3A+RAG-Engine+Active;%3E+Quant+Terminal%3A+Monitoring+Live+Feeds" alt="Terminal Logs" />
 
-<br/><br/>
-
 <!-- 动态暗黑贪吃蛇：自适应 GitHub 官方 Dark 模式与官方 CDN 极速直出 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jiaweisun699999-prog/jiaweisun699999-prog/output/github-contribution-grid-snake-dark.svg" />
