@@ -5,7 +5,7 @@
 
 <!-- 动态打字机效果：科技感极客命令行 -->
 <a href="https://github.com/jiaweisun699999-prog">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Agentic+Workflow+%26+Distributed+State+Machines;Enterprise+RAG+Engine+%26+Financial+Hallucination+Control;High-Fidelity+Persona+Cloning+under+2C2G+Constraint;Algorithmic+Quant+Terminal+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Agentic+Workflow+%26+Distributed+State+Machines;Enterprise+RAG+Engine+%26+Financial+Hallucination+Control;High-Fidelity+Persona+Cloning+under+8C16G+Constraint;Algorithmic+Quant+Terminal+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
 </a>
 
 <p align="center">
