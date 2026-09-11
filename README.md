@@ -29,7 +29,7 @@
 
 * **Multi-Agent 协同与状态机编排 (Agentic Engineering):** 深入实践 LangChain、LangGraph、MCP 协议；在复杂状态流中严格把控 **Tool 调用幂等性、上下文隔离与运行时防幻觉**。
 * **企业级高可靠 RAG 架构 (Enterprise RAG):** 专注垂直场景（金融研报/财报），实现**离线多模态摄取清洗流**与**在线低延迟检索流**的生产级解耦，攻克关键数值的“防数字幻觉”难题。
-* **高拟真数字人与提示词拓扑 (Persona & Prompt Engine):** 结合微调、高质量数据提纯与外挂长程记忆检索，在 2C2G 极低算力边缘环境下跑通高保真语言风格的零边际成本管线。
+* **高拟真数字人与提示词拓扑 (Persona & Prompt Engine):** 结合微调、高质量数据提纯与外挂长程记忆检索，在 8C16G 极低算力边缘环境下跑通高保真语言风格的零边际成本管线。
 * **量化分析终端与交易逻辑 (Quant & FinTech Systems):** 覆盖多源金融时序行情捕捉、动态自选与持仓组合监控，打造兼具可解释策略反馈与现代化 GUI 交互的量化分析闭环。
 * **生成式视觉后处理流水线 (Vision Pipeline Automation):** 深度定制 ComfyUI / SD 局部重绘算法，实现电商及二手奢品高精瑕疵修复。
 
@@ -40,7 +40,7 @@
 #### 🤖 智能体、数字人与技能拓扑 (Agent & Persona Systems)
 * [**hu-chenfeng-skill**](https://github.com/jiaweisun699999-prog/hu-chenfeng-skill)
   * **高拟真赛博人格 Agent / 极端算力约束下的数字人落地范式**。
-  * 基于高质量语料工程提纯与紧凑向量嵌入方案（FastEmbed），在 2C2G 极低算力边缘云环境下跑通高保真语言风格与交互逻辑的零边际成本管线。
+  * 基于高质量语料工程提纯与紧凑向量嵌入方案（FastEmbed），在 8C16G 极低算力边缘云环境下跑通高保真语言风格与交互逻辑的零边际成本管线。
 * [**zhipu_mind**](https://github.com/jiaweisun699999-prog/zhipu_mind)
   * **多维人类前沿技能（Skills）聚合型 AI 交互智能体应用**。
   * 将专家级知识网络抽象为即插即用的 Skills 架构，通过动态上下文挂载与能力路由，打造面向复杂开放任务的增强型对话中枢。
